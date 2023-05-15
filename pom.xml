@@ -40,7 +40,7 @@ under the License.
     the declarative file. Maven can be extended by plugins to utilise a
     number of other development tools for reporting or the build
     process.</description>
-  <url>https://maven.apache.org/ref/${project.version}/</url>
+  <url>https://github.com/saikumar0507/maven/tree/master/</url>
   <inceptionYear>2001</inceptionYear>
 
   <contributors>
